@@ -187,6 +187,7 @@ section {
 
 .section__text__p1 {
   text-align: center;
+  font-weight: 600;
 }
 
 .section__text__p2 {
@@ -325,6 +326,7 @@ section {
   font-weight: 600;
   font-size: 1.75rem;
   margin-bottom: 2rem;
+  
 }
 
 .experience-details-container {
@@ -371,11 +373,13 @@ article .icon {
 }
 
 .project-title {
-  margin: 1rem;
+  margin: 1.2rem;
   color: black;
 }
 
 .project-btn {
+    margin: 1rem;
+    
   color: black;
   border-color: rgb(163, 163, 163);
 }
