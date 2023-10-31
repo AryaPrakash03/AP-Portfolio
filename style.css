@@ -5,10 +5,12 @@
 * {
   margin: 0;
   padding: 0;
+  color: black;
 }
 
 body {
   font-family: "Poppins", sans-serif;
+  
 }
 
 html {
@@ -373,12 +375,15 @@ article .icon {
 }
 
 .project-title {
-  margin: 1.2rem;
+  margin: 1rem;
   color: black;
 }
 
 .project-btn {
     margin: 1rem;
+    font-weight: bolder;
+    background-color: lightgrey;
+    font-size: large;
     
   color: black;
   border-color: rgb(163, 163, 163);
